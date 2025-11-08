@@ -1,5 +1,6 @@
 lista = []
 
+# append adiciona um elemento a lista mas não substitui
 lista.append(1)
 lista.append("Python")
 lista.append([40, 30, 20])
