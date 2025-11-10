@@ -1,3 +1,5 @@
+# Tupla(tuple) - declara usando uma "," no final.
+# Tupla é imutável
 frutas = (
     "laranja",
     "pera",

@@ -1,3 +1,4 @@
+# dicionário é acessado pelo nome da chave e não pelo índice.
 dados = {"nome": "Guilherme", "idade": 28, "telefone": "3333-1234"}
 
 print(dados["nome"])  # "Guilherme"
